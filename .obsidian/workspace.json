@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8c9bf5e853c801df",
+        "id": "eeb750edf3b258d2",
         "type": "tabs",
         "children": [
           {
-            "id": "7ae44f16bf2a1641",
+            "id": "b58a88c0b71206ae",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Test.md",
-                "bFile": "Test.md",
-                "aRef": ""
+                "file": "Test.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Test"
+              "icon": "lucide-file",
+              "title": "Test"
             }
           }
         ]
@@ -93,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Test"
             }
           },
           {
@@ -111,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Test"
             }
           },
           {
@@ -137,12 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Test"
             }
           },
           {
@@ -160,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,7 +177,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7ae44f16bf2a1641",
+  "active": "b58a88c0b71206ae",
   "lastOpenFiles": [
     "Test.md"
   ]
