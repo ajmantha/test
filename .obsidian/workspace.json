@@ -187,8 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,10 +200,11 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "markwhen:Create new Markwhen file": false,
-      "structured-tree:Open Structured Tree": false
+      "structured-tree:Open Structured Tree": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "6ce17b0fd11fdbd2",
+  "active": "227830404f2e9b97",
   "lastOpenFiles": [
     "PLL.md",
     "PLL.Reqs.md",
