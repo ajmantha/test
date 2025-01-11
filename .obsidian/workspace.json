@@ -33,7 +33,8 @@
               "title": "Test 2025-01-11 22.41.03.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test.md",
+                "file": "Excalidraw/Test 2025-01-11 22.41.03.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Test"
+              "title": "Outgoing links from Test 2025-01-11 22.41.03.excalidraw"
             }
           },
           {
@@ -150,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test.md",
+                "file": "Excalidraw/Test 2025-01-11 22.41.03.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Test"
+              "title": "Outline of Test 2025-01-11 22.41.03.excalidraw"
             }
           },
           {
@@ -188,10 +189,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "227830404f2e9b97",
+  "active": "a86ca884107562ed",
   "lastOpenFiles": [
-    "Excalidraw/Test 2025-01-11 22.41.03.excalidraw.md",
     "Test.md",
+    "Excalidraw/Test 2025-01-11 22.41.03.excalidraw.md",
     "Pasted image 20250111231343.png",
     "Excalidraw",
     "README.md"
