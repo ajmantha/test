@@ -11,10 +11,14 @@
             "id": "500ebc5bd4359129",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "PLL.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "PLL"
             }
           }
         ]
@@ -107,11 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PLL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from PLL"
             }
           },
           {
@@ -133,12 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "PLL.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of PLL"
             }
           },
           {
@@ -168,11 +174,13 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "markwhen:Create new Markwhen file": false
+      "markwhen:Create new Markwhen file": false,
+      "structured-tree:Open Structured Tree": false
     }
   },
   "active": "500ebc5bd4359129",
   "lastOpenFiles": [
+    "PLL.md",
     "Markwhen/Markwhen 1-11-2025 23.22.30.mw",
     "Test.md",
     "Markwhen",
