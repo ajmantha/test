@@ -11,12 +11,14 @@
             "id": "e3a3fe251ce01a2b",
             "type": "leaf",
             "state": {
-              "type": "excel-pro-view",
+              "type": "markdown",
               "state": {
-                "file": "Excel 2025-01-11 23.51.01.univer.md"
+                "file": "README.md",
+                "mode": "preview",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Excel 2025-01-11 23.51.01.univer"
+              "title": "README"
             }
           }
         ]
@@ -119,12 +121,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excel 2025-01-11 23.51.01.univer.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Excel 2025-01-11 23.51.01.univer"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -146,13 +148,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excel 2025-01-11 23.51.01.univer.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Excel 2025-01-11 23.51.01.univer"
+              "title": "Outline of README"
             }
           },
           {
@@ -190,8 +192,8 @@
   },
   "active": "e3a3fe251ce01a2b",
   "lastOpenFiles": [
-    "README.md",
     "Excel 2025-01-11 23.51.01.univer.md",
+    "README.md",
     "PLL.md",
     "Excel 2025-01-11 23.52.52.univer.md",
     "Markwhen/Markwhen 1-11-2025 23.22.30.mw",
