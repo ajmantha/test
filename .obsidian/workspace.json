@@ -33,8 +33,7 @@
               "title": "Test 2025-01-11 22.41.03.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,10 +186,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a86ca884107562ed",
+  "active": "d62d9d4aff84d52a",
   "lastOpenFiles": [
-    "Test.md",
     "Excalidraw/Test 2025-01-11 22.41.03.excalidraw.md",
+    "Test.md",
     "Excalidraw",
     "README.md"
   ]
