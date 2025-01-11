@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Test"
             }
+          },
+          {
+            "id": "a86ca884107562ed",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Test 2025-01-11 22.41.03.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Test 2025-01-11 22.41.03.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,12 +183,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d62d9d4aff84d52a",
+  "active": "a86ca884107562ed",
   "lastOpenFiles": [
-    "README.md",
-    "Test.md"
+    "Test.md",
+    "Excalidraw/Test 2025-01-11 22.41.03.excalidraw.md",
+    "Excalidraw",
+    "README.md"
   ]
 }
