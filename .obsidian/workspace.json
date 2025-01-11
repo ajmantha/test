@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d62d9d4aff84d52a",
+            "id": "a86ca884107562ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Test"
             }
-          },
-          {
-            "id": "a86ca884107562ed",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Test 2025-01-11 22.41.03.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Test 2025-01-11 22.41.03.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,12 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Test 2025-01-11 22.41.03.excalidraw.md",
+                "file": "Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Test 2025-01-11 22.41.03.excalidraw"
+              "title": "Outgoing links from Test"
             }
           },
           {
@@ -151,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Test 2025-01-11 22.41.03.excalidraw.md",
+                "file": "Test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Test 2025-01-11 22.41.03.excalidraw"
+              "title": "Outline of Test"
             }
           },
           {
@@ -191,8 +178,8 @@
   },
   "active": "a86ca884107562ed",
   "lastOpenFiles": [
-    "Test.md",
     "Excalidraw/Test 2025-01-11 22.41.03.excalidraw.md",
+    "Test.md",
     "Pasted image 20250111231343.png",
     "Excalidraw",
     "README.md"
