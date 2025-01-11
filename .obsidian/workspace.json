@@ -25,14 +25,14 @@
             "id": "242eb61ab34921c8",
             "type": "leaf",
             "state": {
-              "type": "markwhen-view",
+              "type": "markdown",
               "state": {
                 "file": "Markwhen/Markwhen 1-11-2025 23.22.30.mw",
                 "mode": "source",
-                "source": false
+                "source": true
               },
-              "icon": "markwhen-icon",
-              "title": "Markwhen 1-11-2025 23.22.30.mw"
+              "icon": "lucide-file",
+              "title": "Markwhen 1-11-2025 23.22.30"
             }
           }
         ],
