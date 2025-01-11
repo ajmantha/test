@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "PLL.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -33,8 +33,7 @@
               "title": "Excel 2025-01-11 23.51.01.univer"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excel 2025-01-11 23.51.01.univer.md",
+                "file": "PLL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Excel 2025-01-11 23.51.01.univer"
+              "title": "Outgoing links from PLL"
             }
           },
           {
@@ -161,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excel 2025-01-11 23.51.01.univer.md",
+                "file": "PLL.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Excel 2025-01-11 23.51.01.univer"
+              "title": "Outline of PLL"
             }
           },
           {
@@ -203,13 +202,13 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "e3a3fe251ce01a2b",
+  "active": "500ebc5bd4359129",
   "lastOpenFiles": [
-    "PLL.Reqs.md",
     "Excel 2025-01-11 23.51.01.univer.md",
+    "Markwhen/Markwhen 1-11-2025 23.22.30.mw",
+    "PLL.Reqs.md",
     "PLL.md",
     "Pasted image 20250111231343.png",
-    "Markwhen/Markwhen 1-11-2025 23.22.30.mw",
     "Test.md",
     "Markwhen",
     "Excalidraw/Test 2025-01-11 22.41.03.excalidraw.md",
