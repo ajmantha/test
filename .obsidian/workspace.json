@@ -25,14 +25,12 @@
             "id": "e3a3fe251ce01a2b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excel-pro-view",
               "state": {
-                "file": "PLL.Reqs.md",
-                "mode": "source",
-                "source": false
+                "file": "Excel 2025-01-11 23.51.01.univer.md"
               },
               "icon": "lucide-file",
-              "title": "PLL.Reqs"
+              "title": "Excel 2025-01-11 23.51.01.univer"
             }
           }
         ],
@@ -136,12 +134,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PLL.Reqs.md",
+                "file": "Excel 2025-01-11 23.51.01.univer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from PLL.Reqs"
+              "title": "Outgoing links from Excel 2025-01-11 23.51.01.univer"
             }
           },
           {
@@ -163,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PLL.Reqs.md",
+                "file": "Excel 2025-01-11 23.51.01.univer.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PLL.Reqs"
+              "title": "Outline of Excel 2025-01-11 23.51.01.univer"
             }
           },
           {
@@ -201,13 +199,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "markwhen:Create new Markwhen file": false,
       "structured-tree:Open Structured Tree": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "sheet-plus:Create excel file": false
     }
   },
-  "active": "227830404f2e9b97",
+  "active": "e3a3fe251ce01a2b",
   "lastOpenFiles": [
-    "PLL.md",
     "PLL.Reqs.md",
+    "Excel 2025-01-11 23.51.01.univer.md",
+    "PLL.md",
     "Pasted image 20250111231343.png",
     "Markwhen/Markwhen 1-11-2025 23.22.30.mw",
     "Test.md",
