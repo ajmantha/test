@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Test"
             }
+          },
+          {
+            "id": "242eb61ab34921c8",
+            "type": "leaf",
+            "state": {
+              "type": "markwhen-view",
+              "state": {
+                "file": "Markwhen/Markwhen 1-11-2025 23.22.30.mw",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "markwhen-icon",
+              "title": "Markwhen 1-11-2025 23.22.30.mw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test.md",
+                "file": "Markwhen/Markwhen 1-11-2025 23.22.30.mw",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Test"
+              "title": "Outgoing links from Markwhen 1-11-2025 23.22.30"
             }
           },
           {
@@ -138,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test.md",
+                "file": "Markwhen/Markwhen 1-11-2025 23.22.30.mw",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Test"
+              "title": "Outline of Markwhen 1-11-2025 23.22.30"
             }
           },
           {
@@ -173,13 +188,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "markwhen:Create new Markwhen file": false
     }
   },
-  "active": "a86ca884107562ed",
+  "active": "242eb61ab34921c8",
   "lastOpenFiles": [
-    "Excalidraw/Test 2025-01-11 22.41.03.excalidraw.md",
     "Test.md",
+    "Markwhen/Markwhen 1-11-2025 23.22.30.mw",
+    "Markwhen",
+    "Excalidraw/Test 2025-01-11 22.41.03.excalidraw.md",
     "Pasted image 20250111231343.png",
     "Excalidraw",
     "README.md"
