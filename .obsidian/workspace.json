@@ -98,8 +98,7 @@
               "title": "Structured Tree"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,11 +204,11 @@
       "structured-tree:Open Structured Tree": false
     }
   },
-  "active": "e3a3fe251ce01a2b",
+  "active": "6ce17b0fd11fdbd2",
   "lastOpenFiles": [
-    "Pasted image 20250111231343.png",
-    "PLL.Reqs.md",
     "PLL.md",
+    "PLL.Reqs.md",
+    "Pasted image 20250111231343.png",
     "Markwhen/Markwhen 1-11-2025 23.22.30.mw",
     "Test.md",
     "Markwhen",
