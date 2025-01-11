@@ -11,10 +11,14 @@
             "id": "8f624616a25fd6e9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "README.md",
+                "bFile": "README.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: README"
             }
           }
         ]
@@ -171,6 +175,7 @@
   },
   "active": "8f624616a25fd6e9",
   "lastOpenFiles": [
+    "README.md",
     "Test.md"
   ]
 }
