@@ -83,7 +83,8 @@
               "title": "Structured Tree"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,8 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,7 +190,7 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "e3a3fe251ce01a2b",
+  "active": "d4ebb5fef1ba452d",
   "lastOpenFiles": [
     "logo.png",
     "README.md",
