@@ -1,0 +1,8 @@
+/* Company Logo in the Title Bar */
+.titlebar-inner .titlebar-button-container { /* Targets the title bar area */
+  background-image: url('logo.png'); /* Replace with your logo filename */
+  background-size: contain; /* Adjust size as needed */
+  background-repeat: no-repeat;
+  background-position: center;  /* Adjust position as needed */
+  padding-left: 30px; /* Add some space to avoid overlapping with buttons */
+}
