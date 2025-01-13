@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PLL.Reqs.md",
+                "file": "Test.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "PLL.Reqs"
+              "title": "Test"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pll",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,8 +83,7 @@
               "title": "Structured Tree"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -192,11 +191,11 @@
   },
   "active": "e3a3fe251ce01a2b",
   "lastOpenFiles": [
+    "PLL.Reqs.md",
     "PLL.md",
     "Test.md",
     "logo.png",
     "README.md",
-    "PLL.Reqs.md",
     "Markwhen/Markwhen 1-11-2025 23.22.30.mw",
     "Excel 2025-01-11 23.51.01.univer.md",
     "Excel 2025-01-11 23.52.52.univer.md",
